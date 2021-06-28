@@ -1,2 +1,2 @@
 # Chess
-making a board game with jQuery
+making a board game with jquery
